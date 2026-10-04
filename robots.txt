@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://darthsidiouspt.github.io/zoom-platform-darth.sh/sitemap.xml
